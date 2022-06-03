@@ -1,0 +1,14 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "stdio.h": "c",
+        "stringproinfo.h": "c"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "d:\\Informatics\\src",
+            "binaryPath": "d:\\Informatics\\src\\main",
+            "binaryArgs": []
+        }
+    ]
+}
